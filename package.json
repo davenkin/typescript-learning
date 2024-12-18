@@ -1,0 +1,14 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "Project for learning typescript, bare project with just package.json, without babel or webpack or any web framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
