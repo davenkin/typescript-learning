@@ -1,0 +1,2 @@
+- run `./build.sh` to compile the project
+- in `dist` folder, run `node index.js`
