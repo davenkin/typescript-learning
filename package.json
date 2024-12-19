@@ -1,10 +1,10 @@
 {
-  "name": "typescript-learning",
+  "name": "typescript-nodejs-template",
   "version": "1.0.0",
-  "description": "Project for learning typescript, bare project with just package.json, without babel or webpack or any web framework.",
+  "description": "Template typescript project with node.js, without babel or webpack or any web framework.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "author": "",
   "license": "ISC",

@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-npx tsc
+rm -rf ./dist
+npm run build
