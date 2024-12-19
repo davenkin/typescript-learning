@@ -6,8 +6,8 @@
   "scripts": {
     "build": "tsc"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Davenkin",
+  "license": "Apache-2.0",
   "devDependencies": {
     "typescript": "^5.7.2"
   }

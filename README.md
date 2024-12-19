@@ -1,2 +1,3 @@
+- run `npm install` to install all dependencies
 - run `./build.sh` to compile the project
 - in `dist` folder, run `node index.js`
